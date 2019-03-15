@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="30px" viewBox="0 0 82 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8-Copy" transform="translate(-244.000000, -217.000000)">
+            <g id="Group" transform="translate(243.000000, 217.000000)">
+                <path d="M75.5507355,29.7448071 L70,29.7448071 L70.0458738,7.17804154 L75.5507355,7.17804154 L75.5507355,11.1839763 C76.6211306,8.39464481 78.5783952,7 81.4225879,7 C82.064825,7 82.5847234,7.04450994 82.9822987,7.13353116 L82.9822987,12.2967359 C82.2788962,11.9999985 81.4990486,11.851632 80.6427325,11.851632 C79.1441793,11.851632 77.920889,12.4450979 76.9728247,13.6320475 C76.0247605,14.818997 75.5507355,16.3026617 75.5507355,18.0830861 L75.5507355,29.7448071 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                <path d="M20.7272727,19.8071217 L16.7272727,19.8071217 L16.7272727,30 L11,30 L11,1.42108547e-14 L20.5909091,1.42108547e-14 C24.0454718,1.42108547e-14 26.8105957,0.919872107 28.8863636,2.75964392 C30.9621316,4.59941573 32,7.00295252 32,9.97032641 C32,12.9377003 30.9318289,15.3189821 28.7954545,17.1142433 C26.6590802,18.9095045 23.9697132,19.8071217 20.7272727,19.8071217 Z M20.5576923,5 L17,5 L17,15 L20.4134615,15 C22.6250111,15 24.2756356,14.5416713 25.3653846,13.625 C26.4551337,12.7083287 27,11.4791744 27,9.9375 C27,8.39582563 26.4551337,7.18750437 25.3653846,6.3125 C24.2756356,5.43749563 22.6730875,5 20.5576923,5 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#000000" x="37" y="8" width="6" height="22"></rect>
+                <rect id="Rectangle-Copy" fill="#000000" x="48" y="0" width="6" height="30"></rect>
+                <rect id="Rectangle-Copy-8" fill="#000000" x="59" y="0" width="6" height="30"></rect>
+                <circle id="Oval" fill="#000000" cx="40" cy="3" r="3"></circle>
+                <rect id="Rectangle" fill="#7552F6" x="1" y="0" width="6" height="6" rx="1"></rect>
+                <rect id="Rectangle-Copy-6" fill="#7552F6" x="1" y="12" width="6" height="6" rx="1"></rect>
+                <rect id="Rectangle-Copy-9" fill="#7552F6" x="1" y="24" width="6" height="6" rx="1"></rect>
+                <g id="Stacked-Group-2"></g>
+            </g>
+        </g>
+    </g>
+</svg>
