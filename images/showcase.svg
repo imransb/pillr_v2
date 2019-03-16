@@ -131,8 +131,8 @@
                     <tspan x="241.999996" y="104.599998">Sadaqaah</tspan>
                 </text>
                 <rect id="Rectangle-Copy" fill="#F2EFFE" x="300.299995" y="94.4999984" width="66.4999989" height="13.9999998" rx="2.79999995"></rect>
-                <text id="Zakaat" transform="translate(335.199995, 102.099998) scale(-1, 1) translate(-335.199995, -102.099998) " font-family="HKGrotesk-Medium, HK Grotesk" font-size="8.39999986" font-weight="400" fill="#BEACFF">
-                    <tspan x="322.199995" y="104.599998">Zakaat</tspan>
+                <text id="Zakat" transform="translate(335.199995, 102.099998) scale(-1, 1) translate(-335.199995, -102.099998) " font-family="HKGrotesk-Medium, HK Grotesk" font-size="8.39999986" font-weight="400" fill="#BEACFF">
+                    <tspan x="322.199995" y="104.599998">Zakat</tspan>
                 </text>
                 <g id="man-with-broken-leg" transform="translate(0.000000, 179.899997)">
                     <path d="M64.2323856,42.3349949 C64.2323856,42.3349949 66.9937116,55.8839208 59.5657448,62.6839033 C52.1377781,69.4838858 60.816231,44.9497688 60.816231,44.9497688" id="Path" fill="#F9AA8F" fill-rule="nonzero"></path>
