@@ -1,5 +1,9 @@
+// 
+    // All Scripts
+    // @package pillr
+
 // Replace all occurrences of ' - ' with em dash
-(function () {
+(function() {
     'use strict';
 
     const
@@ -10,7 +14,7 @@
 
 
 // Add box-shadow to header when scroll passes its height
-(function () {
+(function() {
     'use strict';
 
     const
@@ -29,12 +33,14 @@
 
 
 // Initialize Carousel
-(function () {
+(function() {
     'use strict';
 
-    new Glide('.glide').mount({
-        hoverpause: true,
-        autoplay: 5000,
-        gap: 15
-    });
+    if (document.querySelector('.glide')) {
+        new Glide('.glide').mount({
+            hoverpause: true,
+            autoplay: 5000,
+            gap: 15
+        });
+    }
 })();
