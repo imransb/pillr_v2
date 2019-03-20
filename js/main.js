@@ -34,7 +34,7 @@
 
 // Initialize Carousel
 if (document.querySelector('.glide')) {
-    new Glide('.glide').mount({
-        autoplay: true
-    });
-}
+    new Glide('.glide', {
+        autoplay: 5000
+    }).mount();
+ }
