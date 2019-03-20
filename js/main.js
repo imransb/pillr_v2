@@ -33,14 +33,8 @@
 
 
 // Initialize Carousel
-(function() {
-    'use strict';
-
-    if (document.querySelector('.glide')) {
-        new Glide('.glide').mount({
-            hoverpause: true,
-            autoplay: 5000,
-            gap: 15
-        });
-    }
-})();
+if (document.querySelector('.glide')) {
+    new Glide('.glide').mount({
+        autoplay: true
+    });
+}
